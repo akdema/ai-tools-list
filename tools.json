@@ -30,11 +30,6 @@
       "category": "chat"
     },
     {
-      "key": "microsoft-365-copilot",
-      "name": "Microsoft 365 Copilot (Microsoft)",
-      "category": "chat"
-    },
-    {
       "key": "meta-ai",
       "name": "Meta AI (Meta)",
       "category": "chat"
