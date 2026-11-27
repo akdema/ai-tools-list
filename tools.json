@@ -1,0 +1,188 @@
+{
+  "schema": 1,
+  "name": "Akdema – Generative AI tools list",
+  "updated": "2026-11-20",
+  "_help": "A simple, single-source JSON directory of AI tools and providers.",
+  "tools": [
+    {
+      "key": "chatgpt",
+      "name": "ChatGPT (OpenAI)",
+      "category": "chat"
+    },
+    {
+      "key": "claude",
+      "name": "Claude (Anthropic)",
+      "category": "chat"
+    },
+    {
+      "key": "gemini",
+      "name": "Gemini (Google)",
+      "category": "chat"
+    },
+    {
+      "key": "grok",
+      "name": "Grok (xAI)",
+      "category": "chat"
+    },
+    {
+      "key": "copilot",
+      "name": "Microsoft Copilot (Microsoft)",
+      "category": "chat"
+    },
+    {
+      "key": "microsoft-365-copilot",
+      "name": "Microsoft 365 Copilot (Microsoft)",
+      "category": "chat"
+    },
+    {
+      "key": "meta-ai",
+      "name": "Meta AI (Meta)",
+      "category": "chat"
+    },
+    {
+      "key": "llama",
+      "name": "Llama (Meta)",
+      "category": "chat"
+    },
+    {
+      "key": "deepseek",
+      "name": "DeepSeek (DeepSeek)",
+      "category": "chat"
+    },
+    {
+      "key": "qwen",
+      "name": "Qwen (Alibaba)",
+      "category": "chat"
+    },
+    {
+      "key": "kimi",
+      "name": "Kimi (Moonshot AI)",
+      "category": "chat"
+    },
+    {
+      "key": "glm",
+      "name": "GLM (Zhipu AI)",
+      "category": "chat"
+    },
+    {
+      "key": "minimax",
+      "name": "MiniMax (MiniMax)",
+      "category": "chat"
+    },
+    {
+      "key": "notebooklm",
+      "name": "NotebookLM (Google)",
+      "category": "chat"
+    },
+    {
+      "key": "perplexity",
+      "name": "Perplexity (Perplexity AI)",
+      "category": "search"
+    },
+    {
+      "key": "grammarly",
+      "name": "Grammarly (Superhuman)",
+      "category": "writing"
+    },
+    {
+      "key": "deepl",
+      "name": "DeepL (DeepL)",
+      "category": "writing"
+    },
+    {
+      "key": "deepl-write",
+      "name": "DeepL Write (DeepL)",
+      "category": "writing"
+    },
+    {
+      "key": "quillbot",
+      "name": "QuillBot (Learneo)",
+      "category": "writing"
+    },
+    {
+      "key": "wordtune",
+      "name": "Wordtune (AI21 Labs)",
+      "category": "writing"
+    },
+    {
+      "key": "paperpal",
+      "name": "Paperpal (Cactus Communications)",
+      "category": "writing"
+    },
+    {
+      "key": "trinka",
+      "name": "Trinka (Crimson AI)",
+      "category": "writing"
+    },
+    {
+      "key": "writefull",
+      "name": "Writefull (Digital Science)",
+      "category": "writing"
+    },
+    {
+      "key": "jenni-ai",
+      "name": "Jenni AI (Jenni AI)",
+      "category": "writing"
+    },
+    {
+      "key": "scite",
+      "name": "Scite (Research Solutions)",
+      "category": "research"
+    },
+    {
+      "key": "elicit",
+      "name": "Elicit (Elicit)",
+      "category": "research"
+    },
+    {
+      "key": "consensus",
+      "name": "Consensus (Consensus)",
+      "category": "research"
+    },
+    {
+      "key": "scispace",
+      "name": "SciSpace (PubGenius)",
+      "category": "research"
+    },
+    {
+      "key": "research-rabbit",
+      "name": "ResearchRabbit (Litmaps)",
+      "category": "research"
+    },
+    {
+      "key": "undermind",
+      "name": "Undermind (Undermind)",
+      "category": "research"
+    },
+    {
+      "key": "scholarcy",
+      "name": "Scholarcy (Scholarcy)",
+      "category": "research"
+    },
+    {
+      "key": "julius-ai",
+      "name": "Julius AI (Caesar Labs)",
+      "category": "data"
+    },
+    {
+      "key": "dalle",
+      "name": "DALL·E (OpenAI)",
+      "category": "image"
+    },
+    {
+      "key": "gpt-image",
+      "name": "GPT Image (OpenAI)",
+      "category": "image"
+    },
+    {
+      "key": "nano-banana",
+      "name": "Nano Banana (Google)",
+      "category": "image"
+    },
+    {
+      "key": "ideogram",
+      "name": "Ideogram (Ideogram)",
+      "category": "image"
+    }
+  ]
+}
